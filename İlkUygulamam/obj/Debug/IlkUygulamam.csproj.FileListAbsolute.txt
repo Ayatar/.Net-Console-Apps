@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\İlkUygulamam\bin\Debug\İlkUygulamam.exe.config
+C:\Users\elcik\source\repos\İlkUygulamam\bin\Debug\İlkUygulamam.exe
+C:\Users\elcik\source\repos\İlkUygulamam\bin\Debug\İlkUygulamam.pdb
+C:\Users\elcik\source\repos\İlkUygulamam\obj\Debug\IlkUygulamam.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\İlkUygulamam\obj\Debug\IlkUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\İlkUygulamam\obj\Debug\İlkUygulamam.exe
+C:\Users\elcik\source\repos\İlkUygulamam\obj\Debug\İlkUygulamam.pdb
