@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\bin\Debug\SıfırdanYazılanSayiyaKadarKontrol.exe.config
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\bin\Debug\SıfırdanYazılanSayiyaKadarKontrol.exe
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\bin\Debug\SıfırdanYazılanSayiyaKadarKontrol.pdb
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\obj\Debug\SıfırdanYazılanSayiyaKadarKontrol.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\obj\Debug\SıfırdanYazılanSayiyaKadarKontrol.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\obj\Debug\SıfırdanYazılanSayiyaKadarKontrol.exe
+C:\Users\elcik\source\repos\SıfırdanYazılanSayiyaKadarKontrol\obj\Debug\SıfırdanYazılanSayiyaKadarKontrol.pdb

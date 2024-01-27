@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\UsluSayiHesaplama\bin\Debug\UsluSayiHesaplama.exe.config
+C:\Users\elcik\source\repos\UsluSayiHesaplama\bin\Debug\UsluSayiHesaplama.exe
+C:\Users\elcik\source\repos\UsluSayiHesaplama\bin\Debug\UsluSayiHesaplama.pdb
+C:\Users\elcik\source\repos\UsluSayiHesaplama\obj\Debug\UsluSayiHesaplama.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\UsluSayiHesaplama\obj\Debug\UsluSayiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\UsluSayiHesaplama\obj\Debug\UsluSayiHesaplama.exe
+C:\Users\elcik\source\repos\UsluSayiHesaplama\obj\Debug\UsluSayiHesaplama.pdb

@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\FaktoriyelHesabi\bin\Debug\FaktoriyelHesabi.exe.config
+C:\Users\elcik\source\repos\FaktoriyelHesabi\bin\Debug\FaktoriyelHesabi.exe
+C:\Users\elcik\source\repos\FaktoriyelHesabi\bin\Debug\FaktoriyelHesabi.pdb
+C:\Users\elcik\source\repos\FaktoriyelHesabi\obj\Debug\FaktoriyelHesabi.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\FaktoriyelHesabi\obj\Debug\FaktoriyelHesabi.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\FaktoriyelHesabi\obj\Debug\FaktoriyelHesabi.exe
+C:\Users\elcik\source\repos\FaktoriyelHesabi\obj\Debug\FaktoriyelHesabi.pdb

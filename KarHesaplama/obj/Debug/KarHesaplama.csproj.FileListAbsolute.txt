@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\KarHesaplama\bin\Debug\KarHesaplama.exe.config
+C:\Users\elcik\source\repos\KarHesaplama\bin\Debug\KarHesaplama.exe
+C:\Users\elcik\source\repos\KarHesaplama\bin\Debug\KarHesaplama.pdb
+C:\Users\elcik\source\repos\KarHesaplama\obj\Debug\KarHesaplama.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\KarHesaplama\obj\Debug\KarHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\KarHesaplama\obj\Debug\KarHesaplama.exe
+C:\Users\elcik\source\repos\KarHesaplama\obj\Debug\KarHesaplama.pdb

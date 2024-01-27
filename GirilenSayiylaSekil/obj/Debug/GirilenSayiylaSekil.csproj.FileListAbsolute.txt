@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\bin\Debug\GirilenSayiylaSekil.exe.config
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\bin\Debug\GirilenSayiylaSekil.exe
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\bin\Debug\GirilenSayiylaSekil.pdb
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\obj\Debug\GirilenSayiylaSekil.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\obj\Debug\GirilenSayiylaSekil.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\obj\Debug\GirilenSayiylaSekil.exe
+C:\Users\elcik\source\repos\GirilenSayiylaSekil\obj\Debug\GirilenSayiylaSekil.pdb
