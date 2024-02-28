@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\MTVHesaplama\bin\Debug\MTVHesaplama.exe.config
+C:\Users\elcik\source\repos\MTVHesaplama\bin\Debug\MTVHesaplama.exe
+C:\Users\elcik\source\repos\MTVHesaplama\bin\Debug\MTVHesaplama.pdb
+C:\Users\elcik\source\repos\MTVHesaplama\obj\Debug\MTVHesaplama.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\MTVHesaplama\obj\Debug\MTVHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\MTVHesaplama\obj\Debug\MTVHesaplama.exe
+C:\Users\elcik\source\repos\MTVHesaplama\obj\Debug\MTVHesaplama.pdb
