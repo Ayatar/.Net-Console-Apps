@@ -1,0 +1,7 @@
+C:\Users\elcik\source\repos\DonguBlokları\obj\Debug\DonguBlokları.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\DonguBlokları\obj\Debug\DonguBlokları.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\DonguBlokları\bin\Debug\DonguBlokları.exe.config
+C:\Users\elcik\source\repos\DonguBlokları\bin\Debug\DonguBlokları.exe
+C:\Users\elcik\source\repos\DonguBlokları\bin\Debug\DonguBlokları.pdb
+C:\Users\elcik\source\repos\DonguBlokları\obj\Debug\DonguBlokları.exe
+C:\Users\elcik\source\repos\DonguBlokları\obj\Debug\DonguBlokları.pdb
